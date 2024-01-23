@@ -1,0 +1,2 @@
+`strongly-typed-foundation-nserror`
+===================================
